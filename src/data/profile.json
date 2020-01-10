@@ -1,0 +1,323 @@
+{
+    "Name": "Mateus Reis",
+    "Position": "Graduate Student in Mining Engineering",
+    "Description": "Welcome to my personal website. My name is Mateus Reis,I ❤️ Programming.",
+    "Address": "Belo Horizonte-Minas Gerais, Brazil",
+    "Company": "DEMIN-UFMG",
+    "School": "UFMG",
+    "SocialMedias": [
+      "https://github.com/Mateus-M-Reis",
+      "https://www.linkedin.com/in/mateus-marques-603390126",
+      "https://www.facebook.com/mateus.marques.754"
+    ],
+    "experiences": [
+      {
+        "companyName": "DEMIN-UFMG",
+        "logo": "http://www.cpdee.ufmg.br/~eletrica/index_arquivos/image006.gif",
+        "url": "http://www.demin.ufmg.br/",
+        "roles": [
+          {
+            "title": "Estagiário",
+            "description": "Developed Web-Based Image Analysis/Computer Vision Software.",
+            "startDate": "2019-01-08",
+            "currentJob": true,
+            "location": "Belo Horizonte-MG, Brazil"
+          }
+        ]
+      },
+      {
+        "companyName": "DEMIN-UFMG",
+        "logo": "http://www.cpdee.ufmg.br/~eletrica/index_arquivos/image006.gif",
+        "url": "http://www.demin.ufmg.br/",
+        "roles": [
+          {
+            "title": "Estagiário",
+            "description": "Developed Web-Based Mineral Processing Simulation/Optimization Software",
+            "startDate": "2018-01-01",
+            "endDate": "2019-01-01",
+            "location": "Belo Horizonte-MG, Brazil"
+          }
+        ]
+      }, 
+      {
+        "companyName": "Freelancer Developer",
+        "logo": "https://cdn3.iconfinder.com/data/icons/complete-set-icons/512/home512x512.png",
+        "url": "",
+        "roles": [
+          {
+            "title": "Front-End Developer",
+            "description": "Developed Gallery siter for Artists, and HTML5 Game Sites",
+            "startDate": "2019",
+            "currentJob": true,
+            "location": "Belo Horizonte-MG, Brazil"
+          }
+        ]
+      }
+    ],
+    "Skills": [
+      {
+        "Area": "Programming Language",
+        "SkillSet": [
+          {
+            "Name": "JavaScript (ES5, ES6)",
+            "Hot": true
+          },
+          {
+            "Name": "Python",
+            "Hot": false
+          }
+        ]
+      },
+      {
+        "Area": "Web-Based Application Development",
+        "SkillSet": [
+          {
+            "Name": "JavaScript (ES5, ES6)",
+            "Hot": true
+          },
+          {
+            "Name": "TypeScript",
+            "Hot": false
+          },
+          {
+            "Name": "HTML5",
+            "Hot": true
+          },
+          {
+            "Name": "CSS (SCSS/SASS)",
+            "Hot": true
+          },
+          {
+            "Name": "React",
+            "Hot": true
+          },
+          {
+            "Name": "Redux",
+            "Hot": false
+          },
+          {
+            "Name": "JQuery",
+            "Hot": false
+          },
+          {
+            "Name": "NPM",
+            "Hot": false
+          },
+          {
+            "Name": "Grunt",
+            "Hot": false
+          },
+          {
+            "Name": "React Native",
+            "Hot": true
+          },
+          {
+            "Name": "WebPack",
+            "Hot": false
+          },
+          {
+            "Name": "Ionic",
+            "Hot": false
+          },
+          {
+            "Name": "Django",
+            "Hot": false
+          },
+          {
+            "Name": "Flask",
+            "Hot": false
+          },
+          {
+            "Name": "Dash (Plotly)",
+            "Hot": true
+          },
+          {
+            "Name": "voilà (Jupyter Lab)",
+            "Hot": true
+          }
+         
+        ]
+      },
+      {
+        "Area": "Database",
+        "SkillSet": [
+          {
+            "Name": "MongoDB",
+            "Hot": false
+          },
+          {
+            "Name": "My SQL",
+            "Hot": false
+          }
+        ]
+      },
+      {
+        "Area": "Platforms",
+        "SkillSet": [
+          {
+            "Name": "Windows",
+            "Hot": false
+          },
+          {
+            "Name": "Unix/Linux",
+            "Hot": true
+          }
+        ]
+      },
+      {
+        "Area": "Test Driven Development",
+        "SkillSet": [
+          {
+            "Name": "Jest",
+            "Hot": false
+          },
+          {
+            "Name": "Enzyme",
+            "Hot": false
+          }
+        ]
+      },
+      {
+        "Area": "Software Development Tools and Concepts",
+        "SkillSet": [
+          {
+            "Name": "Git",
+            "Hot": false
+          },
+          {
+            "Name": "Docker",
+            "Hot": true
+          }
+        ]
+      }
+    ],
+    "Projects": [
+      {
+        "Name": "Mill_Back-calculation_Notebook",
+        "Description": "Interactive simulation and determination of ball milling breakage parameters, built on top of numpy, lmfit, ipywidgets and bqplot.",
+        "ScreenShotURL": "./retrocalc.png",
+        "ProjectLink":"https://github.com/Mateus-M-Reis/Mill_Back-calculation_Notebook"
+      },
+      {
+        "Name": "grancv",
+        "Description": "OpenCV script with granulometry purpouses, built on top of ipywidgets, bqplot, openCV and IpyCanvas ",
+        "ScreenShotURL": "./grancv.png",
+        "ProjectLink":"https://github.com/Mateus-M-Reis/grancv"
+      }
+    ],
+    "Education": [
+      {
+        "SchoolName": "Universidade Federal de Minas Gerais",
+        "Date": "2011 - 2020",
+        "Degree": "Bachelor of Mining Engineering",
+        "Location": "Belo Horizonte-MG, Brazil",
+        "Description": "I'm currently finishing my degree in Mining Engineering from Universidade Federal de Minas Gerais",
+        "SchoolImage": "https://upload.wikimedia.org/wikipedia/commons/d/d6/UFMG.svg",
+        "SchoolLink": "https://www.eng.ufmg.br/portal/",
+        "Awards": [
+        ]
+      },
+      {
+        "SchoolName": "Coursera",
+        "Date": "2019 - 2020",
+        "Degree": "Especialization",
+        "Location": "Belo Horizonte-MG, Brazil",
+        "Description": "I like Coursera Courses. I can study content that I always wanted in the comfort of my home. Click to see what I have already done.",
+        "SchoolImage": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Coursera_logo.PNG",
+        "SchoolLink": "https://www.coursera.org/",
+        "Awards": [
+          {
+            "Name": "Google Cloud Platform Fundamentals: Core Infrastructure",
+            "Date": "December 2019",
+            "Region": "Belo Horizonte - MG, Brazil",
+            "Organization": "Google Cloud through Coursera",
+            "Description": "I learned important concepts and terminology for working with Google Cloud Platform (GCP). Learned to Compare storages services like Google App Engine, Google Compute Engine, Google Kubernetes Engine, Google Cloud Storage, Google Cloud SQL, and BigQuery. Click to see more!",
+            "Link": "https://www.coursera.org/account/accomplishments/verify/PSKQSD3VHCWB"
+          },
+          {
+            "Name": "Front-End Web UI Frameworks and Tools: Bootstrap 4",
+            "Date": "Dec 2019",
+            "Region": "Belo Horizonte - MG, Brazil",
+            "Organization": "Hong Kong University of Science and Technology through Coursera",
+            "Description": " I learned about grids and responsive design, Bootstrap CSS and JavaScript components. Also learned about CSS preprocessors, Less and Sass. Furthermore, practice Node.js and NPM and task runners like Grunt and Gulp.",
+            "Link": "https://www.coursera.org/account/accomplishments/verify/SDA82GPUXEP9?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate&utm_term=long"
+          },
+          {
+            "Name": "Getting Started With Application Development",
+            "Date": "Dec 2019",
+            "Region": "Belo Horizonte - MG, Brazil",
+            "Organization": "Google Cloud through Coursera",
+            "Description": " I learned about grids and responsive design, Bootstrap CSS and JavaScript components. Also learned about CSS preprocessors, Less and Sass. Furthermore, practice Node.js and NPM and task runners like Grunt and Gulp.",
+            "Link": "https://www.coursera.org/account/accomplishments/verify/3Z2KU29LBZWQ?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate&utm_term=long"
+          }
+        ]
+      },
+      {
+        "SchoolName": "Escola Estadual Afonso Pena Júnior",
+        "Date": "2008 - 2011",
+        "Degree": "Elementary and high school",
+        "Location": "São Tiago - MG, Brazil",
+        "Description": "This was a reference school, with winning students at several Olympics. But even among these, there was a better! ",
+        "SchoolImage": "https://scontent.fvag4-1.fna.fbcdn.net/v/t1.0-1/p160x160/12122494_867972263310816_513757840080475193_n.jpg?_nc_cat=110&_nc_ohc=JcvZiuiwl_oAQmPeLNdypcyixlC_77M2S79gARRYRrmVKvcPB4GtKgG7Q&_nc_ht=scontent.fvag4-1.fna&_nc_tp=1&oh=443492cd0fe17875da99d1ec857e2453&oe=5EA1660C",
+        "SchoolLink": "https://www.facebook.com/pages/EE-Afonso-Pena-J%C3%BAnior/1453279721633567",
+        "Awards": [
+          {
+            "Name": "Bronze Medal at the Brazilian Public Schools Mathematics Olympiad",
+            "Date": "December 2010",
+            "Region": "São Tiago - MG, Brazil",
+            "Organization": "IMPA through obmep",
+            "Description": "That was the hardest!",
+            "Link": "https://drive.google.com/open?id=1bZbrN2TF7W6RswDyTXZz8MBvAzW_ZTbj"
+          },
+          {
+            "Name": "Merit at Cambridge ESOL Entry Level Certificate in ESOL International (Entry 2)",
+            "Date": "Dec 2008",
+            "Region": "São Tiago - MG, Brazil",
+            "Organization": "University of Cambridge",
+            "Description": " I did a good work here!",
+            "Link": "https://www.coursera.org/account/accomplishments/verify/SDA82GPUXEP9?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate&utm_term=long"
+          },
+          {
+            "Name": "Gold Medal at the Brazilian Robotics Olympics",
+            "Date": "Dec 2010",
+            "Region": "Belo Horizonte - MG, Brazil",
+            "Organization": "CNPq, unesp and others",
+            "Description": " The medal wasn't really gold after all",
+            "Link": "https://drive.google.com/open?id=1Lpq7drp_ZujKu7drziMXRaxkgFZ7Hw1z"
+          },
+          {
+            "Name": "Linux",
+            "Date": "Dec 2008",
+            "Region": "São Tiago - MG, Brazil",
+            "Organization": "Secretaria do Estado de Educação de Minas Gerais",
+            "Description": " My first contact with Linux. Ahaah, good times!",
+            "Link": "https://drive.google.com/open?id=1nS5FxonyJ8Ts1OuWUGjNZxGLI-rkYhjS"
+          },
+          {
+            "Name": "Participation in the Second Phase of the Brazilian Physics Olympiad",
+            "Date": "Dec 2008",
+            "Region": "São Tiago - MG, Brazil",
+            "Organization": "SBF, CNPq",
+            "Description": " ",
+            "Link": "https://drive.google.com/open?id=1Ick2MsOZ9KS4Mro9H9CiQoQDhnKSpuuX"
+          },
+          {
+            "Name": "Again Participation in the Second Phase of the Brazilian Physics Olympiad",
+            "Date": "Dec 2009",
+            "Region": "São Tiago - MG, Brazil",
+            "Organization": "CNPq, unesp and others",
+            "Description": " ",
+            "Link": "https://drive.google.com/open?id=1emFxlbp9KyWVQW-4RwZJLPO3P_8DMgTH"
+          },
+          {
+            "Name": "Free Vocational Course in Basic Spanish",
+            "Date": "Set 2006",
+            "Region": "São Tiago - MG, Brazil",
+            "Organization": "Instituto Universal Brasileiro",
+            "Description": " ",
+            "Link": "https://drive.google.com/open?id=1d4IpPqg8AGdEiSNEM90QY0efhxuEKhAM"
+          }
+        ]
+      }
+    ]
+  }
