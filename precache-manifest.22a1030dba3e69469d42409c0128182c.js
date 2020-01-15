@@ -1,23 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "c3b2aa500fedad1ce07a",
+    "revision": "12f567f9b373b2cae625",
     "url": "/personal-website/static/css/main.40e98d93.chunk.css"
   },
   {
-    "revision": "c3b2aa500fedad1ce07a",
-    "url": "/personal-website/static/js/main.5d952d69.chunk.js"
+    "revision": "12f567f9b373b2cae625",
+    "url": "/personal-website/static/js/main.b4dc6386.chunk.js"
   },
   {
     "revision": "b6d8e3a721968ec40bad",
     "url": "/personal-website/static/js/runtime~main.93f2c6c9.js"
   },
   {
-    "revision": "5229efd64384bc91e5a0",
+    "revision": "acd5c428718292c1863c",
     "url": "/personal-website/static/css/2.35943ae3.chunk.css"
   },
   {
-    "revision": "5229efd64384bc91e5a0",
-    "url": "/personal-website/static/js/2.da1bd8aa.chunk.js"
+    "revision": "acd5c428718292c1863c",
+    "url": "/personal-website/static/js/2.bb2e3537.chunk.js"
+  },
+  {
+    "revision": "0b63be06db385140920bc504a36b21b6",
+    "url": "/personal-website/static/media/demin-logo.0b63be06.png"
   },
   {
     "revision": "19cdb45392e924a4a44a41696767a49b",
@@ -26,10 +30,6 @@ self.__precacheManifest = [
   {
     "revision": "fe5730124d13dc6ae4be948ee886e909",
     "url": "/personal-website/static/media/EE-ufmg-logo.fe573012.svg"
-  },
-  {
-    "revision": "0b63be06db385140920bc504a36b21b6",
-    "url": "/personal-website/static/media/demin-logo.0b63be06.png"
   },
   {
     "revision": "3b3e8f227611b050316727150d4bb3cd",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/personal-website/static/media/retrocalc.48be4a69.png"
   },
   {
-    "revision": "7dcdde277898ac0ae7b54f01b78b4a22",
+    "revision": "4913a28887888be851643d6873abbe27",
     "url": "/personal-website/index.html"
   }
 ];
