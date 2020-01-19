@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "12f567f9b373b2cae625",
+    "revision": "7b350aee109140bc6df1",
     "url": "/personal-website/static/css/main.40e98d93.chunk.css"
   },
   {
-    "revision": "12f567f9b373b2cae625",
-    "url": "/personal-website/static/js/main.b4dc6386.chunk.js"
+    "revision": "7b350aee109140bc6df1",
+    "url": "/personal-website/static/js/main.a6cafc55.chunk.js"
   },
   {
     "revision": "b6d8e3a721968ec40bad",
     "url": "/personal-website/static/js/runtime~main.93f2c6c9.js"
   },
   {
-    "revision": "acd5c428718292c1863c",
+    "revision": "7b69ffdee1fc88f683f1",
     "url": "/personal-website/static/css/2.35943ae3.chunk.css"
   },
   {
-    "revision": "acd5c428718292c1863c",
-    "url": "/personal-website/static/js/2.bb2e3537.chunk.js"
+    "revision": "7b69ffdee1fc88f683f1",
+    "url": "/personal-website/static/js/2.b25e840e.chunk.js"
   },
   {
     "revision": "0b63be06db385140920bc504a36b21b6",
@@ -40,6 +40,10 @@ self.__precacheManifest = [
     "url": "/personal-website/static/media/demo.67edcff8.svg"
   },
   {
+    "revision": "a3ffd507b56855a2a0c3123a020f61dd",
+    "url": "/personal-website/static/media/dsbc-logo.a3ffd507.png"
+  },
+  {
     "revision": "84cf21e61eccd9e047556126bc36d4c7",
     "url": "/personal-website/static/media/grancv.84cf21e6.png"
   },
@@ -48,7 +52,7 @@ self.__precacheManifest = [
     "url": "/personal-website/static/media/retrocalc.48be4a69.png"
   },
   {
-    "revision": "4913a28887888be851643d6873abbe27",
+    "revision": "7e578fe0907932120d7f2d427d3f89a9",
     "url": "/personal-website/index.html"
   }
 ];
