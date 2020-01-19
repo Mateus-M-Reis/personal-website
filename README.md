@@ -1,9 +1,8 @@
 
 
 # React Personal Resume Template with Material UI Theme 
-![React Personal Website Template](https://github.com/waynezhang1995/react-personal-website-template/blob/master/demo/demo.png?raw=true)
+This is the repo for my personal website.
 
-## 🎉 [Demo Page](https://waynezhang1995.github.io/react-personal-website-template/)
 ## Introduction
 An easily modifiable template written in React, featuring mordern material UI design, for building personal resume website. Integrated with create-react-app and gh-pages, easy to build and deploy.
 ## Build yours NOW
@@ -36,4 +35,4 @@ npm deploy
 ```
 
 ## Credit
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), [gh-pages](https://github.com/tschaub/gh-pages)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), [gh-pages](https://github.com/tschaub/gh-pages), and adapted from ![react-personal-website-template](https://github.com/waynezhang1995/react-personal-website-template)
