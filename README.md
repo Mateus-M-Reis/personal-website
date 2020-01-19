@@ -1,5 +1,5 @@
 
-# React Personal Resume Template with Material UI Theme 
+# React Personal Resume with Material UI Theme 
 This is the repo for my personal website.
 
 ## Introduction
