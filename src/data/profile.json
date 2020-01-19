@@ -64,6 +64,14 @@
           },
           {
             "Name": "Python",
+            "Hot": true
+          },
+          {
+            "Name": "Scala",
+            "Hot": false
+          },
+          {
+            "Name": "Spark",
             "Hot": false
           }
         ]
@@ -249,6 +257,33 @@
             "Organization": "Google Cloud through Coursera",
             "Description": " I learned about grids and responsive design, Bootstrap CSS and JavaScript components. Also learned about CSS preprocessors, Less and Sass. Furthermore, practice Node.js and NPM and task runners like Grunt and Gulp.",
             "Link": "https://www.coursera.org/account/accomplishments/verify/3Z2KU29LBZWQ?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate&utm_term=long"
+          },
+          {
+            "Name": "Machine Learning with Python",
+            "Date": "Jan 2020",
+            "Region": "Belo Horizonte - MG, Brazil",
+            "Organization": "IBM through Coursera",
+            "Description": " I learned about the purpose of Machine Learning and where it applies to the real world. Also I got a general overview of Machine Learning topics such as supervised vs unsupervised learning,  model evaluation, and Machine Learning algorithms.",
+            "Link": "https://www.coursera.org/account/accomplishments/verify/HWA56A5PFM4V?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate&utm_term=long"
+          }
+        ]
+      },
+      {
+        "SchoolName": "Cognitive Class",
+        "Date": "2019 - 2020",
+        "Degree": "Especialization",
+        "Location": "Belo Horizonte-MG, Brazil",
+        "Description": "Cognitive Class is powered by the technology and content provided by the IBM Developer Skills Network. IBM Developer Skills Network is a recognized source of top-quality courses on topics including artificial intelligence (AI), machine learning, data science, big data, analytics, databases, cloud native development, blockchain and a lot more. Take a look to see what I've got there!",
+        "SchoolImage": "https://cognitiveclass.ai/wp-content/uploads/2016/11/dsbc-logo.png",
+        "SchoolLink": "https://cognitiveclass.ai/",
+        "Awards": [
+          {
+            "Name": "Machine Learning with Python",
+            "Date": "Jan 2020",
+            "Region": "Belo Horizonte - MG, Brazil",
+            "Organization": "Cognitive class through Coursera Authorized by IBM",
+            "Description": "I learned about the purpose of Machine Learning and where it applies to the real world. Also I got a general overview of Machine Learning topics such as supervised vs unsupervised learning,  model evaluation, and Machine Learning algorithms.",
+            "Link": "https://www.youracclaim.com/badges/3a74bb9f-dcea-438b-ba14-e4ef81bc93ee"
           }
         ]
       },
