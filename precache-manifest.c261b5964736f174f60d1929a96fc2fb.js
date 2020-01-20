@@ -1,27 +1,31 @@
 self.__precacheManifest = [
   {
-    "revision": "001e4c2463c3a6e179d6",
+    "revision": "309883091ae5f11d49c2",
     "url": "/personal-website/static/css/main.40e98d93.chunk.css"
   },
   {
-    "revision": "001e4c2463c3a6e179d6",
-    "url": "/personal-website/static/js/main.1bf4a481.chunk.js"
+    "revision": "309883091ae5f11d49c2",
+    "url": "/personal-website/static/js/main.1a82e535.chunk.js"
   },
   {
     "revision": "b6d8e3a721968ec40bad",
     "url": "/personal-website/static/js/runtime~main.93f2c6c9.js"
   },
   {
-    "revision": "7b69ffdee1fc88f683f1",
+    "revision": "42f8a88e69c3ad16ad09",
     "url": "/personal-website/static/css/2.35943ae3.chunk.css"
   },
   {
-    "revision": "7b69ffdee1fc88f683f1",
-    "url": "/personal-website/static/js/2.b25e840e.chunk.js"
+    "revision": "42f8a88e69c3ad16ad09",
+    "url": "/personal-website/static/js/2.82516d5b.chunk.js"
   },
   {
     "revision": "0b63be06db385140920bc504a36b21b6",
     "url": "/personal-website/static/media/demin-logo.0b63be06.png"
+  },
+  {
+    "revision": "3c3d491d90679cd8c671064f1cbac213",
+    "url": "/personal-website/static/media/cognitiveclass-square.3c3d491d.png"
   },
   {
     "revision": "19cdb45392e924a4a44a41696767a49b",
@@ -52,7 +56,7 @@ self.__precacheManifest = [
     "url": "/personal-website/static/media/retrocalc.48be4a69.png"
   },
   {
-    "revision": "840a1a688281d431890b74de2bbaaea7",
+    "revision": "5ff1276e71dd1de450b181c2a5adb036",
     "url": "/personal-website/index.html"
   }
 ];
