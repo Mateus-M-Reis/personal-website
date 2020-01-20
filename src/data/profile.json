@@ -69,10 +69,6 @@
           {
             "Name": "Scala",
             "Hot": false
-          },
-          {
-            "Name": "Spark",
-            "Hot": false
           }
         ]
       },
@@ -142,8 +138,11 @@
           {
             "Name": "voilà (Jupyter Lab)",
             "Hot": true
+          },
+          {
+            "Name": "Apache Spark",
+            "Hot": false
           }
-         
         ]
       },
       {
