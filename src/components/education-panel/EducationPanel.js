@@ -12,6 +12,7 @@ import ExpansionPanelDetails from '@material-ui/core/ExpansionPanelDetails';
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 import './EducationPanel.css';
 import Link from '@material-ui/core/Link';
+import cogin_logo from '../../img/cognitiveclass-square.png'
 
 const styles = {
     educationPanel: 'educationPanel',
@@ -45,7 +46,7 @@ class EducationPanel extends Component {
                                             </Grid>
                                             <Grid item xs={4}>
                                                 <ButtonBase onClick={() => window.open(education.SchoolLink)}>
-                                                    <img className={styles.schoolImg} alt={education.SchoolName} src={education.SchoolImage} />
+                                                    <img className={styles.schoolImg} alt={education.SchoolName} src={education.SchoolName === 'Cognitive Class'? cogin_logo:education.SchoolImage} />
                                                 </ButtonBase>
                                             </Grid>
                                         </Grid>
