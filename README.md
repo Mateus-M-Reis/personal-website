@@ -34,4 +34,4 @@ npm deploy
 ```
 
 ## Credit
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), [gh-pages](https://github.com/tschaub/gh-pages), and adapted from ![react-personal-website-template](https://github.com/waynezhang1995/react-personal-website-template)
+This project was adapted from ![react-personal-website-template](https://github.com/waynezhang1995/react-personal-website-template)
